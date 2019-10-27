@@ -12,9 +12,11 @@ Parts list:
 * 1x ATTINY13A microcontroller.
 * Wire
 * 3d printed case (files are in the Assets directory)
+* [Sparkfun mini perfboard](https://www.digikey.se/product-detail/en/sparkfun-electronics/PRT-08808/1568-1652-ND/7387401)
 
 Optional:
 
+* A switch of your liking to turn it on/off.
 * 1x DIP8 socket.
 * 1x [5-pin JST connector pair](https://www.digikey.se/product-detail/en/jst-sales-america-inc/B5B-XH-A-LF-SN/455-2270-ND/1530483).
 * 2x [3-pin JST connector pair](https://www.digikey.se/product-detail/en/jst-sales-america-inc/B3B-XH-A-LF-SN/455-2248-ND/1651046).
