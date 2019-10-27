@@ -1,6 +1,10 @@
 # HalloweenEyes
 Make a fancy blinking eyes decoration for Halloween!
 
+Video of the entire build:
+
+https://www.youtube.com/watch?v=aNoGQlLaza0
+
 Parts list:
 
 * 8x LEDs. I suggest red due to the low voltage drop, allowing you to connect them in pairs. The colors you can use depends on the battery. You can put them in parallel instead of in pairs if you want, but you'll have to limit the current more to fit within the GPIO max current draw. Or you could use 4x transistors to toggle the eyes directly from the power supply.
